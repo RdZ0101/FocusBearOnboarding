@@ -57,3 +57,18 @@
      - Examine and report any unwanted access points or changes by looking through recent activity records. For a more thorough investigation, report the occurrence right away to lead or the appropriate security team.
      - Use up-to-date antivirus and anti-malware software to scan devices for risks and remove them. Temporarily remove access to accounts and devices that may have been compromised.
      - Follow-up To determine how the incident happened and implement changes, perform a security audit. Re-enable access using new credentials or improved security features like MFA.
+
+  
+New Cyber Security Habit: Regular Security Audits for Accounts
+
+I will conduct a monthly security audit for all my work-related accounts at Focus Bear. This will involve reviewing recent login activities, checking account permissions, and updating passwords if necessary.
+
+Why:Regular audits will help me identify and respond to suspicious activities promptly, ensuring that unauthorized access or potential vulnerabilities are detected and resolved quickly.
+
+How:
+1. Set a recurring reminder for the first Monday of each month to perform the audit.
+2. Review account activity logs for unusual logins or device access.
+3. Check and update passwords where needed, ensuring they are strong and unique.
+4. Disable or remove access for unused apps or services linked to my accounts.
+5. Document findings in a simple log to track patterns or recurring risks.
+
