@@ -30,3 +30,30 @@
      Conscious Internet Conduct:
        - Avoiding oversharing facts about one's job and exercising caution while posting information on social media.
        - Making it a practice to double-check URLs and email addresses before clicking on links.
+
+
+3. How are you going to make sure your accounts and passwords are safe?
+
+     Improve Password Security:
+        - Make the switch to lengthier, more memorable, yet difficult-to-guess passphrases.
+        - Make sure each account has a unique password, and change it from time to time.
+
+     Use Password Management:
+        - For safe storage and autofill features, keep utilizing a password manager.
+        - Update weak passwords and conduct regular strength audits of the manager's stored credentials.
+
+     Adopt Advanced Authentication:
+        - Make sure that all accounts can utilize two-factor authentication (2FA).
+        - For the most sensitive accounts, think about utilizing hardware security keys.
+
+   Monitor for Breaches:
+        - Keep an eye out for breaches by turning on notifications for any odd login behavior on important accounts.
+        - To find out whether any credentials are compromised, use breach monitoring services.
+
+
+4. How would you respond if you thought your account was being used fraudulently or that there was a security breach?
+
+     - Take immediate action by disconnecting from the network to stop additional access. Passwords for impacted accounts should be changed as away, with financial and professional accounts receiving priority.
+     - Examine and report any unwanted access points or changes by looking through recent activity records. For a more thorough investigation, report the occurrence right away to lead or the appropriate security team.
+     - Use up-to-date antivirus and anti-malware software to scan devices for risks and remove them. Temporarily remove access to accounts and devices that may have been compromised.
+     - Follow-up To determine how the incident happened and implement changes, perform a security audit. Re-enable access using new credentials or improved security features like MFA.
